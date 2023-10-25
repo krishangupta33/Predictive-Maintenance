@@ -7,8 +7,11 @@ The goal of this predictive maintenance project is to develop a supervised machi
 Dataset: (https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020)
 
 Data Source: Dataset based on a milling machine.
+
 Size: 10,000 data points.
+
 Features: 14 columns, including UID, Product ID, Type, Air Temperature, Process Temperature, Rotational Speed, Torque, Tool Wear, and Machine Failure label.
+
 Business Benefits:
 
 Cost Savings
